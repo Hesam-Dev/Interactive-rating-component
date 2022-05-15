@@ -1,0 +1,22 @@
+.card2 {
+  text-align: center;
+}
+.thank-img {
+  margin-top: 1rem;
+  margin-bottom: 1.5rem;
+}
+.selected {
+  color: hsl(25, 97%, 53%);
+  background-color: hsl(214, 11%, 25%);
+  max-width: 60%;
+  padding: 0.3rem 1rem;
+  margin: auto;
+  border-radius: 1rem;
+}
+.greet {
+  margin: 2rem 0 0.5rem 0;
+}
+.message-greet {
+  line-height: 1.5;
+  opacity: 0.4;
+}
